@@ -7,9 +7,5 @@ Link do curso [Python Pro](https://plataforma.dev.pro.br/
 
 para instalar:
 
-'console
-python -m venv venv
-.\venv\Scripts\activate.ps1
-pip install -r requirements-dev.txt
-
-'
+#console python -m venv venv.\venv\Scripts\activate.ps1pip install -r requirements-dev.txt
+#
